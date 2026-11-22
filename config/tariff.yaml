@@ -1,0 +1,10 @@
+utility: "EXAMPLE UTILITY"
+category: "residential_single_phase"
+effective_from: "2025-04-01"
+slabs:
+  - { upto: 100, rate: 4.00 }
+  - { upto: 300, rate: 8.00 }
+  - { upto: null, rate: 12.00 }
+fixed_charge_per_month: 100.0
+duty_percent: 16.0
+max_billing_days: 33
