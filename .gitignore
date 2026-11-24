@@ -1,7 +1,8 @@
 .venv/
 .env
 __pycache__/
-.streamlit/secrets.toml
 *.pyc
 .pytest_cache/
+.streamlit/secrets.toml
 voltcourt.db
+private_bills/
